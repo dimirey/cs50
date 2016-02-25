@@ -1,0 +1,20 @@
+0.  jpeg: 16.7 million, gif: 256, png: 256 up to 256 teracolors, bmp: over 4 billion
+1.  gif 
+2.  lossy loses some of the data when compressed while lossless compresses the file in a way that is reversible
+3.  jpeg
+4.  The filename's first character is modified so that the system knows that the space has been deleted, and the system moves all of the files fat clusters to the hard drive's list of free clusters
+5.  phsyically destroy the harddrive (with fire, shredders, magnets, etc) or you can use specialized software to write and rewrite over the hard drive
+6.  stdint.h is a header file which allows programmers to write more portable code by providing a set of typedefs that specify exact-width integer types, together with the defined minimum and maximum allowable values for each type
+7.  they clarify in which way you want to use the data
+8.  BYTE = 1, DWORD = 4, WORD = 2, LONG = 4
+9.  0x4D42
+10. bisize = The number of bytes required by the structure.
+    bfsize = The number of bytes in the whole file
+11. the bitmap is a top-down DIB with the origin at the upper left corner
+12. biBitCount
+13. Line 37 would return null if the correct arguments were not passed, or if the program did not have write permissions
+14. So that it only reads one element with the size of the "SIZE" argument
+15. 3
+16. Its purpose is to change the file position indicator for the specified stream
+17. origin is the current position
+18. Rob Bowden
